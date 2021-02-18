@@ -6,7 +6,7 @@
 - Download [622C](http://www.rloe.com/randytheracer/622c.zip) and extract it into _C:\dosbox_
 - Download and install [bochs](https://sourceforge.net/projects/bochs/files/latest/download) to _C:\bochs_
 - Download and install [OSFMount](https://www.osforensics.com/downloads/osfmount.exe)
-- Download the [windows 95 installation](https://github.com/donno2048/Win95-source/archive/master.zip) and extract it to _C:\win95_
+- Download the [windows 95 installation](https://github.com/CITUR-OS/Windows95/archive/master.zip) and extract it to _C:\win95_
 
 ## Steps
 
